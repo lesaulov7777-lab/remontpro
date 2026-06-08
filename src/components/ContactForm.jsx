@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { useScrollAnimation } from '../hooks/useScrollAnimation'
 
 const CONTACTS = [
-  { icon: '📞', text: '+7 (999) 123-45-67', href: 'tel:+79991234567' },
+  { icon: '📞', text: '+7 (996) 038-93-12', href: 'tel:+79960389312' },
   { icon: '📧', text: 'info@remontpro.ru', href: 'mailto:info@remontpro.ru' },
   { icon: '📍', text: 'Москва, ул. Строителей, 15', href: null },
 ]
